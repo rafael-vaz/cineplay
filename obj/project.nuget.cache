@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "leD+Twx0ReZrtddxBQD2HWrc47m/k9tzzG3ANbbEU0opgElCiFRxusynnXx1E9J8Bi2x7dtfoJBnpIx4GrVGkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferre\\Google Drive\\Repositório de Código\\login-comment-asp.net-core-mvc\\projeto-cineplay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferre\\.nuget\\packages\\mysqlconnector\\1.2.0\\mysqlconnector.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

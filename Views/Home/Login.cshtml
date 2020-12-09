@@ -1,0 +1,47 @@
+@model Usuarios
+@{ 
+    
+    ViewData["Title"] = "Login";
+
+}
+
+<div id="body-filmes">
+
+<div class="title">
+    <h3><img class="icone-titulo" alt="Usuário" src="~/img/user.png">Login</h3>
+   </div>
+<hr>
+
+<div class="pedidos">
+    <form action="" method="post">
+        <label asp-for="login">Login:</label>
+        <input asp-for="login" class="pedidos-input input-extra" required>
+        <label asp-for="senha">Senha:</label>
+        <input asp-for="senha" type="password" class="pedidos-input input-extra" required> 
+        <input type="submit" value="Acessar" class="form-button"> 
+        <p class="aviso">Ainda não tem uma conta? <a class="aviso" asp-action="Cadastro">Cadastre-se</a></p> 
+        <p class="aviso">@ViewBag.Login</p>        
+    </form>
+    <img src="~/img/pedidos-img.png" class="pedidos-img"alt="Pipoca e Refrigerante">
+</div>
+
+<style>
+    #body-filmes{
+        padding-bottom: 80px;
+    }
+
+    .pedidos-img{
+        opacity: 0;
+    }
+
+    .aviso a:hover{
+    color:#b4b3b3
+    }
+</style>
+
+<script>
+    ScrollReveal().reveal('.descricao-pedidos');
+    ScrollReveal().reveal('.pedidos-img');
+</script>
+
+</div>

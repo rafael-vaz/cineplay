@@ -1,0 +1,85 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Rafael Vaz">
+    <meta name="description" content="Potal de transmissão de Filmes e Séries de qualidade">
+    <link rel="stylesheet" type="text/css" href="~/css/style.css"/>
+    <link rel="icon" type="image/png" href="~/img/icone.png">
+    <link href="https://fonts.googleapis.com/css2?family=Amiko:wght@400;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/scrollreveal@4"></script>
+    
+    <title>@ViewData["Title"] - Cineplay</title>
+    
+</head>
+
+<body>
+    <header>
+        <nav>
+               <script>ScrollReveal().reveal('.destaque-content');</script>
+  <div class="nav-bar">
+      
+    <div class="logo">
+         <a asp-action="Index"><img src="~/img/logo.png" alt="Logo" title="Cineplay"></a>
+      </div>
+      
+      <div class="nav-links-content">
+          <a id="nav-link-index" class="nav-links" asp-action="Index"><img class="nav-icons" src="~/img/home.png" alt="Home">Início</a>
+          <a  id="nav-link-filmes" class="nav-links" asp-action="Filmes"><img class="nav-icons" src="~/img/movie.png" alt="Filmes">Filmes</a>
+          <a  id="nav-link-series" class="nav-links" asp-action="Series"><img class="nav-icons" src="~/img/monitor.png" alt="Séries">Séries</a>
+          <a  id="nav-link-pedidos" class="nav-links" asp-action="Pedidos"><img class="nav-icons" src="~/img/check.png" alt="Check">Pedidos</a>
+      </div>
+      
+      <div class="busca">
+      <input type="text" name="search" size="15" placeholder="Buscar...">
+      <button><img src="~/img/search.png"></button>
+    </div>
+    @if(Context.Session.GetInt32("id_usuarios") != null){ 
+        
+        ViewBag.User = "Olá " + @Context.Session.GetString("nome");
+        <style>
+            #entrada-login{
+                display: none;
+            }
+
+            #saida-login{
+                display: block;
+            }
+            #user-button{
+             display:none;   
+            }
+
+            .login{
+                display: flex;
+                align-items: center;
+                transform: translateX(50px);
+            }    
+        </style>}
+    <div class="login"><span id="viewbag" class="estilo-login">@ViewBag.User</span> <a id="saida-login" asp-action="Logout"><img class="nav-icons" alt="Icone Logout" src="~/img/icone-logout.png" title="Logout"></a></div>
+    <div class="login">
+       <button onclick="login()" id="user-button"><img id="logout-img" src="~/img/user.png" alt="Usuário" title="Login"></button>
+        <a id="entrada-login" asp-action="Login" class="nav-links">Entrar</a>
+    </div>
+       
+  </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+           <a asp-action="Index"><img src="~/img/logo-footer.png" alt="Ícone" title="Cineplay"></a>
+    <p>Os melhores Filmes e Séries em um só lugar.  © Copyright 2020</p>
+    <a asp-action="Pedidos"><img src="~/img/mensagem.png" alt="Mensagem" title="Pedidos"></a>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,288 @@
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\projeto-cineplay.exe
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\projeto-cineplay.deps.json
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\projeto-cineplay.runtimeconfig.json
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\projeto-cineplay.runtimeconfig.dev.json
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\projeto-cineplay.dll
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\projeto-cineplay.pdb
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\projeto-cineplay.Views.dll
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\projeto-cineplay.Views.pdb
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.AssemblyInfoInputs.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.AssemblyInfo.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorAssemblyInfo.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorAssemblyInfo.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.TagHelpers.input.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.TagHelpers.output.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorCoreGenerate.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorTargetAssemblyInfo.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorTargetAssemblyInfo.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.Views.pdb
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\staticwebassets\projeto-cineplay.StaticWebAssets.Manifest.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\staticwebassets\projeto-cineplay.StaticWebAssets.xml
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.dll
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.pdb
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.genruntimeconfig.cache
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\projeto-cineplay.csproj.CopyComplete
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\Filmes.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\Series.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\Pedidos.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeVingadores.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeCoringa.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeGladiador.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeDetonaRalph.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeReiLeao.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAvatar.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeMadMax.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeLigadaJustica.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeXmen.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeET.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeGuardioesDaGalaxia.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmePulpFiction.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeTron.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeDeVoltaParaOFuturo.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAlien.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeVelozeseFuriosos.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOSenhorDosAneis.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeSonic.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOsFantasmasSeDivertem.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOPoderosoChefao.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeFriday.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAlice.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmePiratasDoCaribe.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOResgateDoSoldadoRyan.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJurassicWorld.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAFantasticaFabricaDeChocolate.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJohnCarter.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJumanji.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTodoMundoOdeiaOChris.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieUmMalucoNoPedaco.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieVikings.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieMandaloriano.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBrooklyn99.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLaCasaDePapel.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFallingSkies.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFriends.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieDemolidor.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFrontier.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieHowIMetYourMother.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSobrenatural.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeriePunhoDeFerro.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLukeCage.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBoardwalkEmpire.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBreakingBad.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieEuaPatroaeasCriancas.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieHellOnWheels.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLost.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieKenaneKel.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieNarcos.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeriePrisonBreak.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSonsOfAnarchy.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSpartacus.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieStarTrek.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieStrangerThings.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTheBigBangTheory.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTheWalkingDead.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\projeto-cineplay.exe
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\projeto-cineplay.deps.json
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\projeto-cineplay.runtimeconfig.json
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\projeto-cineplay.runtimeconfig.dev.json
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\projeto-cineplay.dll
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\projeto-cineplay.pdb
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\projeto-cineplay.Views.dll
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\projeto-cineplay.Views.pdb
+C:\Users\ferre\Desktop\projeto-cineplay2\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.csprojAssemblyReference.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.AssemblyInfoInputs.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.AssemblyInfo.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorAssemblyInfo.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorAssemblyInfo.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.TagHelpers.input.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.TagHelpers.output.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorCoreGenerate.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAFantasticaFabricaDeChocolate.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAlice.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAlien.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAvatar.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeCoringa.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeDetonaRalph.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeDeVoltaParaOFuturo.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeET.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeFriday.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeGladiador.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeGuardioesDaGalaxia.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJohnCarter.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJumanji.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJurassicWorld.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeLigadaJustica.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeMadMax.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOPoderosoChefao.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOResgateDoSoldadoRyan.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOSenhorDosAneis.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOsFantasmasSeDivertem.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmePiratasDoCaribe.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmePulpFiction.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeReiLeao.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Filmes.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeSonic.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeTron.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeVelozeseFuriosos.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeVingadores.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeXmen.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Pedidos.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBoardwalkEmpire.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBreakingBad.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBrooklyn99.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieDemolidor.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieEuaPatroaeasCriancas.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFallingSkies.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFriends.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFrontier.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieHellOnWheels.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieHowIMetYourMother.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieKenaneKel.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLaCasaDePapel.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLost.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLukeCage.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieMandaloriano.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieNarcos.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeriePrisonBreak.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeriePunhoDeFerro.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Series.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSobrenatural.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSonsOfAnarchy.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSpartacus.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieStarTrek.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieStrangerThings.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTheBigBangTheory.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTheWalkingDead.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTodoMundoOdeiaOChris.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieUmMalucoNoPedaco.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieVikings.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorTargetAssemblyInfo.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorTargetAssemblyInfo.cs
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.Views.pdb
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.csproj.CopyComplete
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\staticwebassets\projeto-cineplay.StaticWebAssets.Manifest.cache
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\staticwebassets\projeto-cineplay.StaticWebAssets.xml
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.dll
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.pdb
+C:\Users\ferre\Desktop\projeto-cineplay2\obj\Debug\netcoreapp3.1\projeto-cineplay.genruntimeconfig.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\projeto-cineplay.exe
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\projeto-cineplay.deps.json
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\projeto-cineplay.runtimeconfig.json
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\projeto-cineplay.runtimeconfig.dev.json
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\projeto-cineplay.dll
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\projeto-cineplay.pdb
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\projeto-cineplay.Views.dll
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\projeto-cineplay.Views.pdb
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.csprojAssemblyReference.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.AssemblyInfoInputs.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.AssemblyInfo.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.csproj.CoreCompileInputs.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorAssemblyInfo.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorAssemblyInfo.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.TagHelpers.input.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.TagHelpers.output.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorCoreGenerate.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAFantasticaFabricaDeChocolate.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAlice.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAlien.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeAvatar.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeCoringa.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeDetonaRalph.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeDeVoltaParaOFuturo.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeET.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeFriday.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeGladiador.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeGuardioesDaGalaxia.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJohnCarter.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJumanji.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeJurassicWorld.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeLigadaJustica.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeMadMax.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOPoderosoChefao.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOResgateDoSoldadoRyan.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOSenhorDosAneis.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeOsFantasmasSeDivertem.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmePiratasDoCaribe.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmePulpFiction.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeReiLeao.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Filmes.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeSonic.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeTron.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeVelozeseFuriosos.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeVingadores.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\FilmeXmen.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Pedidos.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBoardwalkEmpire.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBreakingBad.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieBrooklyn99.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieDemolidor.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieEuaPatroaeasCriancas.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFallingSkies.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFriends.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieFrontier.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieHellOnWheels.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieHowIMetYourMother.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieKenaneKel.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLaCasaDePapel.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLost.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieLukeCage.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieMandaloriano.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieNarcos.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeriePrisonBreak.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SeriePunhoDeFerro.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Series.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSobrenatural.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSonsOfAnarchy.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieSpartacus.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieStarTrek.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieStrangerThings.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTheBigBangTheory.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTheWalkingDead.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieTodoMundoOdeiaOChris.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieUmMalucoNoPedaco.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\SerieVikings.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorTargetAssemblyInfo.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.RazorTargetAssemblyInfo.cs
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.Views.pdb
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.csproj.CopyComplete
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\staticwebassets\projeto-cineplay.StaticWebAssets.Manifest.cache
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\staticwebassets\projeto-cineplay.StaticWebAssets.xml
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.dll
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.pdb
+C:\Users\ferre\Google Drive\Repositório de Código\login-comment-asp.net-core-mvc\obj\Debug\netcoreapp3.1\projeto-cineplay.genruntimeconfig.cache
