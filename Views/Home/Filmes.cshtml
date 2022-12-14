@@ -1,181 +1,190 @@
 ﻿@{
     ViewData["Title"] = "Filmes";
 }
+
+<style>
+    .title h3 {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+</style>
+
 <div id=body-filmes>
-<div class="title">
-     <h3><img class="icone-titulo" alt="Filmes" src="~/img/movie.png">Todos os Filmes</h3>
-     <select>
-         <option value="default" selected>Selecione uma Categoria</option>
-         <option value="acao">Ação</option>
-         <option value="aventura">Aventura</option>
-         <option value="animacao">Animação</option>
-         <option value="comedia">Comédia</option>
-         <option value="terror">Terror</option>
-         <option value="guerra">Guerra</option>
-         <option value="ficcao-cientifica">Ficção Científica</option>    
-     </select>
+    <div class="title">
+        <h3><img class="nav-icons" alt="Filmes" src="~/img/movie.png">Todos os Filmes</h3>
+        <select>
+            <option value="default" selected>Selecione uma Categoria</option>
+            <option value="acao">Ação</option>
+            <option value="aventura">Aventura</option>
+            <option value="animacao">Animação</option>
+            <option value="comedia">Comédia</option>
+            <option value="terror">Terror</option>
+            <option value="guerra">Guerra</option>
+            <option value="ficcao-cientifica">Ficção Científica</option>
+        </select>
     </div>
-<hr>
-<main class="grid-collection">
- 
-<div class="capas">
-    <a asp-action="FilmeVingadores">
-<img src="~/capas/filmes-aventura/capa-vingadores-ultimato.jpg">
-</a>
-<p>Os Vingadores - Ultimato</p>
-</div> 
-
-<div class="capas">
-    <a asp-action="FilmeCoringa"><img src="~/capas/filmes-aventura/capa-o-coringa.jpg"></a>
-    <p>Coringa</p>
-    </div> 
-
-    <div class="capas">
-       <a asp-action="FilmeGladiador"> <img src="~/capas/filmes-guerra/capa-gladiador.jpg"></a>
-        <p>Gladiador</p>
-        </div> 
+    <hr>
+    <main class="grid-collection">
 
         <div class="capas">
-            <a asp-action="FilmeDetonaRalph"><img src="~/capas/filmes-animacao/capa-detona-ralph.jpg"></a>
+            <a href="#">
+                <img src="~/capas/filmes-aventura/capa-vingadores-ultimato.jpg">
+            </a>
+            <p>Os Vingadores - Ultimato</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-o-coringa.jpg"></a>
+            <p>Coringa</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"> <img src="~/capas/filmes-guerra/capa-gladiador.jpg"></a>
+            <p>Gladiador</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-animacao/capa-detona-ralph.jpg"></a>
             <p>Detona Ralph</p>
-            </div> 
+        </div>
 
-            <div class="capas">
-                <a asp-action="FilmeReiLeao"><img src="~/capas/filmes-aventura/capa-rei-leao.jpg"></a>
-                <p>O Rei Leão</p>
-                </div> 
-
-                <div class="capas">
-                    <a asp-action="FilmeAvatar"><img src="~/capas/filmes-aventura/capa-avatar.jpg"></a>
-                    <p>Avatar</p>
-                    </div> 
-
-                    <div class="capas">
-                        <a asp-action="FilmeMadMax"><img src="~/capas/filmes-acao/capa-mad-max.jpg"></a>
-                        <p>Mad Max</p>
-                        </div> 
-
-                        <div class="capas">
-                            <a asp-action="FilmeLigadaJustica"><img src="~/capas/filmes-aventura/capa-liga-da-justica.jpg"></a>
-                            <p>Liga da Justiça</p>
-                            </div> 
-
-                            <div class="capas">
-                               <a asp-action="FilmeXmen"><img src="~/capas/filmes-aventura/capa-x-men-apocalipse.jpg"></a> 
-                                <p>X-Men - Apocalipse</p>
-                                </div> 
-
-                                <div class="capas">
-                                    <a asp-action="FilmeET"><img src="~/capas/filmes-ficcao-cientifica/capa-et.jpg"></a>
-                                    <p>E.T - O Extraterrestre</p>
-                                    </div> 
-
-                                    <div class="capas">
-                                       <a asp-action="FilmeGuardioesDaGalaxia"><img src="~/capas/filmes-aventura/capa-guardioes-da-galaxia.jpg"></a>
-                                        <p>Guardiões da Galáxia</p>
-                                        </div> 
-
-                                        <div class="capas">
-                                            <a asp-action="FilmePulpFiction"><img src="~/capas/filmes-aventura/capa-pulp-fiction.jpg"></a>
-                                            <p>Pulp Fiction - Tempo de Violência</p>
-                                            </div> 
-
-                                            <div class="capas">
-                                                <a asp-action="FilmeTron"><img src="~/capas/filmes-aventura/capa-tron.jpg"></a>
-                                                <p>Tron</p>
-                                                </div> 
-
-                                                <div class="capas">
-                                                   <a href="FilmeDeVoltaParaOFuturo"> <img src="~/capas/filmes-aventura/capa-de-volta-para-o-futuro-3.jpg"></a>
-                                                    <p>De Volta Para o Futuro 3</p>
-                                                    </div> 
-
-</main>
-
-<div class="pagination">
-    <a href="#">◄</a>
-    <a href="filmes.html" class="active">1</a>
-    <a href="#">2</a>
-    <a href="#">3</a>
-    <a href="#">►</a>   
-</div>
-
-<div class="title">
-    <h3>Últimos Filmes</h3>
-   </div>
-<hr>
-<div class="grid-collection">
-    <div class="capas">
-        <a asp-action="FilmeAlien"><img src="~/capas/filmes-ficcao-cientifica/capa-alien-oitavo-passageiro.jpg"></a>
-        <p>Alien - O 8º Passageiro</p>
-        </div> 
-        
         <div class="capas">
-            <a asp-action="FilmeVelozeseFuriosos"><img src="~/capas/filmes-acao/capa-velozes-e-furiosos-4.jpg"></a>
+            <a href="#"><img src="~/capas/filmes-aventura/capa-rei-leao.jpg"></a>
+            <p>O Rei Leão</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-avatar.jpg"></a>
+            <p>Avatar</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-acao/capa-mad-max.jpg"></a>
+            <p>Mad Max</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-liga-da-justica.jpg"></a>
+            <p>Liga da Justiça</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-x-men-apocalipse.jpg"></a>
+            <p>X-Men - Apocalipse</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-ficcao-cientifica/capa-et.jpg"></a>
+            <p>E.T - O Extraterrestre</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-guardioes-da-galaxia.jpg"></a>
+            <p>Guardiões da Galáxia</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-pulp-fiction.jpg"></a>
+            <p>Pulp Fiction - Tempo de Violência</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-tron.jpg"></a>
+            <p>Tron</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"> <img src="~/capas/filmes-aventura/capa-de-volta-para-o-futuro-3.jpg"></a>
+            <p>De Volta Para o Futuro 3</p>
+        </div>
+
+    </main>
+
+    <div class="pagination">
+        <a href="#">◄</a>
+        <a href="filmes.html" class="active">1</a>
+        <a href="#">2</a>
+        <a href="#">3</a>
+        <a href="#">►</a>
+    </div>
+
+    <div class="title">
+        <h3>Últimos Filmes</h3>
+    </div>
+    <hr>
+    <div class="grid-collection">
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-ficcao-cientifica/capa-alien-oitavo-passageiro.jpg"></a>
+            <p>Alien - O 8º Passageiro</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-acao/capa-velozes-e-furiosos-4.jpg"></a>
             <p>Velozes e Furiosos 4</p>
-            </div> 
-        
-            <div class="capas">
-               <a asp-action="FilmeOSenhorDosAneis"> <img src="~/capas/filmes-aventura/capa-o-senhor-dos-aneis-as-duas-torres.jpg"></a>
-                <p>O Senhor dos Anéis - As Duas Torres</p>
-                </div> 
-        
-                <div class="capas">
-                    <a asp-action="FilmeSonic"><img src="~/capas/filmes-aventura/capa-sonic.jpg"></a>
-                    <p>Sonic</p>
-                    </div> 
-        
-                    <div class="capas">
-                        <a asp-action="FilmeOsFantasmasSeDivertem"><img src="~/capas/filmes-aventura/capa-os-fantasmas-se-divertem.jpg"></a>
-                        <p>Os Fantasmas se Divertem</p>
-                        </div> 
-        
-                        <div class="capas">
-                            <a asp-action="FilmeOPoderosoChefao"><img src="~/capas/filmes-aventura/capa-o-poderoso-chefao.jpg"></a>
-                            <p>O Poderoso Chefão</p>
-                            </div> 
-        
-                            <div class="capas">
-                                <a asp-action="FilmeFriday"><img src="~/capas/filmes-aventura/capa-friday.jpg"></a>
-                                <p>Sexta-feira em Apuros</p>
-                                </div> 
-        
-                                <div class="capas">
-                                    <a asp-action="FilmeAlice"><img src="~/capas/filmes-aventura/capa-alice-no-pais-das-maravilhas.jpg"></a>
-                                    <p>Alice no País das Maravilhas</p>
-                                    </div> 
-        
-                                    <div class="capas">
-                                        <a asp-action="FilmePiratasDoCaribe"><img src="~/capas/filmes-aventura/capa-piratas-do-caribe-a-vinganca-de-salazar.jpg"></a>
-                                        <p>Piratas do Caribe - A Vingança de Salazar</p>
-                                        </div> 
-        
-                                        <div class="capas">
-                                            <a asp-action="FilmeOResgateDoSoldadoRyan"><img src="~/capas/filmes-guerra/capa-o-resgate-do-soldad-ryan.jpg"></a>
-                                            <p>O Resgate do Soldado Ryan</p>
-                                            </div> 
-        
-                                            <div class="capas">
-                                                <a asp-action="FilmeJurassicWorld"><img src="~/capas/filmes-aventura/capa-jurassic-world.jpg"></a>
-                                                <p>Jurassic World - O Mundo dos Dinossauros</p>
-                                                </div> 
-        
-                                                <div class="capas">
-                                                   <a asp-action="FilmeAFantasticaFabricaDeChocolate"> <img src="~/capas/filmes-aventura/capa-a-fantastica-fabrica-de-chocolate.jpg"></a>
-                                                    <p>A Fantastica Fábrica de Chocolate</p>
-                                                    </div> 
-        
-                                                    <div class="capas">
-                                                        <a asp-action="FilmeJohnCarter"><img src="~/capas/filmes-aventura/capa-john-carter.jpg"></a>
-                                                        <p>John Carter</p>
-                                                        </div> 
-        
-                                                        <div class="capas">
-                                                           <a asp-action="FilmeJumanji"> <img src="~/capas/filmes-aventura/capa-jumanji-bem-vindo-a-selva.jpg"></a>
-                                                            <p>Jumanji - Bem-vindo à Selva</p>
-                                                            </div> 
-</div>
-<script>
-    ScrollReveal().reveal('.grid-collection');
-</script>
+        </div>
+
+        <div class="capas">
+            <a href="#"> <img src="~/capas/filmes-aventura/capa-o-senhor-dos-aneis-as-duas-torres.jpg"></a>
+            <p>O Senhor dos Anéis - As Duas Torres</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-sonic.jpg"></a>
+            <p>Sonic</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-os-fantasmas-se-divertem.jpg"></a>
+            <p>Os Fantasmas se Divertem</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-o-poderoso-chefao.jpg"></a>
+            <p>O Poderoso Chefão</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-friday.jpg"></a>
+            <p>Sexta-feira em Apuros</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-alice-no-pais-das-maravilhas.jpg"></a>
+            <p>Alice no País das Maravilhas</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-piratas-do-caribe-a-vinganca-de-salazar.jpg"></a>
+            <p>Piratas do Caribe - A Vingança de Salazar</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-guerra/capa-o-resgate-do-soldad-ryan.jpg"></a>
+            <p>O Resgate do Soldado Ryan</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-jurassic-world.jpg"></a>
+            <p>Jurassic World - O Mundo dos Dinossauros</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"> <img src="~/capas/filmes-aventura/capa-a-fantastica-fabrica-de-chocolate.jpg"></a>
+            <p>A Fantastica Fábrica de Chocolate</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/filmes-aventura/capa-john-carter.jpg"></a>
+            <p>John Carter</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"> <img src="~/capas/filmes-aventura/capa-jumanji-bem-vindo-a-selva.jpg"></a>
+            <p>Jumanji - Bem-vindo à Selva</p>
+        </div>
+    </div>
+    <script>
+        ScrollReveal().reveal('.grid-collection');
+    </script>
 </div>

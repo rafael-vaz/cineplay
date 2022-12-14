@@ -1,53 +1,55 @@
 ﻿@{
-    ViewData["Title"] = "Home";
+  ViewData["Title"] = "Home";
 }
 
- <div id="secondary-banner"></div>
-  <section>
-      <div class="banner-content">
-          <h3>Os Melhores Filmes e Séries</h3>
-          <p>Assista aos melhores conteúdos da TV e cinema de forma gratuita e sem anúncios. Aqui você pode 
-              escolher entre uma enorme variedade de filmes e séries e ainda realizar pedidos diretamente para 
-              nossa equipe, dando a sua opnião sobre a nossa página e fazendo sugestões de novos filmes e séries.</p>
-              <div class="banner-buttons">
-                <button onclick="login()">Faça Login</button>
-                <button onclick="cadastrar()">Cadastre-se</button>
-        
-              </div>
- </div>
-  </section> 
-<style>
-    #secondary-banner{
-    background-image: url(../img/banner-img.jpg);}
+<section class="secondary-banner"></section>
 
-    section { background-image: url(../img/banner.jpg);}
-</style>
-  <div class="destaques">
-      <div id="destaque01" class="destaque-content">
-          <img src="~/img/destaque-movie.png" alt="Pipoca e Refrigerante">
-          <p>Conteúdo de Qualidade</p>
-      </div>
-      <div id="destaque02" class="destaque-content">
-        <img src="~/img/destaque-anuncios.png" alt="Megafone">
-        <p>Assista sem Anúncios</p>
-      </div>
-      <div id="destaque03" class="destaque-content">
-        <img src="~/img/destaque-phone.png" alt="Celular">
-        <p>Veja tudo pelo Celular</p>
-      </div>
-      <div id="destaque04" class="destaque-content">
-        <img src="~/img/destaque-mensagem.png" alt="Mensagem">
-        <p>Mande a sua Sugestão</p>
-      </div>
+<section class="primary-banner">
+  <div class="banner-items">
+    <h3>Os Melhores Filmes e Séries</h3>
+    <p>Assista aos melhores conteúdos da TV e cinema de forma gratuita e sem anúncios. Aqui você pode
+      escolher entre uma enorme variedade de filmes e séries e ainda realizar pedidos diretamente para
+      nossa equipe, dando a sua opnião sobre a nossa página e fazendo sugestões de novos filmes e séries.</p>
+    <div class="banner-buttons">
+      <button onclick="login()">Faça Login</button>
+      <button onclick="cadastrar()">Cadastre-se</button>
+    </div>
   </div>
-  <script>
-    ScrollReveal().reveal('#destaque01')
-    ScrollReveal().reveal('#destaque02', { delay: 500 })
-    ScrollReveal().reveal('#destaque03', { delay: 1000 })
-    ScrollReveal().reveal('#destaque04', { delay: 1500 })
-</script>
-<script>
-    ScrollReveal().reveal('.banner-content');
-    ScrollReveal().reveal('.banner-buttons', {delay:500});
-</script>
+</section>
 
+<style>
+  .secondary-banner {
+    background-image: url(../img/banner-img.jpg);
+  }
+
+  .primary-banner {
+    background-image: url(../img/banner.jpg);
+  }
+</style>
+
+
+<div class="destaques">
+  <div id="destaque01" class="destaque-content">
+    <img src="~/img/destaque-movie.png" alt="Pipoca e Refrigerante">
+    <p>Conteúdo de Qualidade</p>
+  </div>
+  <div id="destaque02" class="destaque-content">
+    <img src="~/img/destaque-anuncios.png" alt="Megafone">
+    <p>Assista sem Anúncios</p>
+  </div>
+  <div id="destaque03" class="destaque-content">
+    <img src="~/img/destaque-phone.png" alt="Celular">
+    <p>Veja tudo pelo Celular</p>
+  </div>
+  <div id="destaque04" class="destaque-content">
+    <img src="~/img/destaque-mensagem.png" alt="Mensagem">
+    <p>Mande a sua Sugestão</p>
+  </div>
+</div>
+
+<script>
+  ScrollReveal().reveal('#destaque01')
+  ScrollReveal().reveal('#destaque02', { delay: 150 })
+  ScrollReveal().reveal('#destaque03', { delay: 300 })
+  ScrollReveal().reveal('#destaque04', { delay: 450 })
+</script>

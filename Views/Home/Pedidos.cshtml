@@ -1,76 +1,111 @@
 @model IEnumerable<Pedidos>
-@{ 
-    
+@{
+
     ViewData["Title"] = "Pedidos";
 
 }
 
-<div id="body-filmes">
-
-<div class="title">
-     <h3>Peça uma série ou filme</h3>
-    </div>
-<hr>
-<div class="descricao-pedidos">
-    <img src="~/img/img-pedidos.png" alt="Popcorn">
-    <p>Realize o seu pedido e tenha a sua série e filme preferidos
-    compartilhados pelo nosso site. Cadastre-se agora e mande a sua sugestão!</p>
-</div>
-<div class="title">
-    <h3>Comentários</h3>
-</div>    
-
-<div class="comentario-content">
-<ul>
-@foreach (Pedidos p in Model){
-<div class="lista-comentarios">
-<img src="~/img/user-img.png" alt="Usuário" class="comentario-img">
-<li class="user-comentario"><b class="linha-comentario">@p.nome</b><br><div class="horario">@p.data</div><div class="linha-comentario">@p.comentario</div></li>
-</div>
-}
-</ul>
-</div>
 
 <style>
-    .comentario-content{
+    .comentario-content {
         margin-top: 20px;
         margin-left: 60px;
     }
 
-    .horario{
-    font-size: 12px;
-    font-family: 'Amiko', sans-serif;
-    position:relative;
-    color:#979797;
-    margin-bottom: 5px;
-    margin-top: 5px;
+    .horario {
+        font-size: 12px;
+        font-family: 'Amiko', sans-serif;
+        position: relative;
+        color: #979797;
+        margin-bottom: 5px;
+        margin-top: 5px;
 
+    }
+
+    .title h3 {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .user-comentario {
+        margin-bottom: 70px;
+        list-style: none;
+    }
+
+    .linha-comentario {
+        font-family: "Amiko", sans-serif;
+        position: relative;
+        color: #ffffff;
+        font-size: 15px;
+    }
+
+    .comentario-img {
+        width: 65px;
+        height: 65px;
+        margin-right: 10px;
+        transform: translateY(-2px);
+    }
+
+    .lista-comentarios {
+        display: flex;
     }
 </style>
 
-<div class="title">
-    <h3><img class="icone-titulo" alt="Pedidos" src="~/img/check.png">Pedidos</h3>
-   </div>
-<hr>
 
-<div class="pedidos">
-    <form action="" method="post">
-        <label for="comentario">Comentário</label>
-        <textarea name="comentario" class="pedidos-input" cols="30" rows="8"></textarea>
-        <label for="nome">Nome*</label>
-        <input name="nome" type="text" class="pedidos-input input-extra" required>
-        <label for="email">Email*</label>
-        <input name="email" type="text" class="pedidos-input input-extra" required> 
-        <input type="submit" value="Publicar Comentário" class="form-button"> 
-        <p class="aviso">O seu e-mail não será publicado. Campos obrigatórios são marcados com *</p>
-        <p class="aviso">@ViewBag.Pedidos</p>       
-    </form>
-    <img src="~/img/pedidos-img.png" class="pedidos-img"alt="Pipoca e Refrigerante">
-</div>
+<div id="body-filmes">
 
-<script>
-    ScrollReveal().reveal('.descricao-pedidos');
-    ScrollReveal().reveal('.pedidos-img');
-</script>
+    <div class="title">
+        <h3><img class="nav-icons" alt="Usuário" src="~/img/check.png">Peça uma série ou filme</h3>
+    </div>
+    <hr>
+    <div class="descricao-pedidos">
+        <img src="~/img/img-pedidos.png" alt="Popcorn">
+        <p>Realize o seu pedido e tenha a sua série e filme preferidos
+            compartilhados pelo nosso site. Cadastre-se agora e mande a sua sugestão!</p>
+    </div>
+    <div class="title">
+        <h3>Comentários</h3>
+    </div>
+
+    <div class="comentario-content">
+        <ul>
+            @foreach (Pedidos p in Model)
+            {
+                <div class="lista-comentarios">
+                    <img src="~/img/user-img.png" alt="Usuário" class="comentario-img">
+                    <li class="user-comentario"><b class="linha-comentario">@p.nome</b><br>
+                        <div class="horario">@p.data</div>
+                        <div class="linha-comentario">@p.comentario</div>
+                    </li>
+                </div>
+            }
+        </ul>
+    </div>
+
+    <div class="title">
+        <h3>Pedidos</h3>
+    </div>
+    <hr>
+
+    <div class="pedidos">
+        <form action="" method="post">
+            <label for="comentario">Comentário</label>
+            <textarea name="comentario" class="pedidos-input" cols="30" rows="8"></textarea>
+            <label for="nome">Nome*</label>
+            <input name="nome" type="text" class="pedidos-input input-extra" required>
+            <label for="email">Email*</label>
+            <input name="email" type="text" class="pedidos-input input-extra" required>
+            <input type="submit" value="Publicar Comentário" class="form-button">
+            <p class="aviso">O seu e-mail não será publicado. Campos obrigatórios são marcados com *</p>
+            <p class="aviso">@ViewBag.Pedidos</p>
+        </form>
+        <img src="~/img/pedidos-img.png" class="pedidos-img" alt="Pipoca e Refrigerante">
+    </div>
+
+    <script>
+        ScrollReveal().reveal('.descricao-pedidos');
+        ScrollReveal().reveal('.pedidos-img');
+    </script>
 
 </div>

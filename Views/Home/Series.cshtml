@@ -2,172 +2,190 @@
     ViewData["Title"] = "Séries";
 }
 
+<style>
+    .title h3 {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+</style>
+
 <div id="body-filmes">
 
-<div class="title">
-     <h3><img class="icone-titulo" alt="Séries" src="~/img/monitor.png">Todas as Séries</h3>
+    <div class="title">
+        <h3><img class="nav-icons" alt="Séries" src="~/img/monitor.png">Todas as Séries</h3>
+        <select>
+            <option value="default" selected>Selecione uma Categoria</option>
+            <option value="acao">Ação</option>
+            <option value="aventura">Aventura</option>
+            <option value="animacao">Animação</option>
+            <option value="comedia">Comédia</option>
+            <option value="terror">Terror</option>
+            <option value="guerra">Guerra</option>
+            <option value="ficcao-cientifica">Ficção Científica</option>
+        </select>
     </div>
-<hr>
-<main class="grid-collection">
- 
-<div class="capas">
-<a asp-action="SerieTodoMundoOdeiaOChris"><img src="~/capas/series/capa-todo-mundo-odeia-o-chris.jpg"></a>
-<p>Todo Mundo Odeia o Chris</p>
-</div> 
-
-<div class="capas">
-    <a asp-action="SerieUmMalucoNoPedaco"><img src="~/capas/series/capa-um-maluco-no-pedaco.jpg"></a>
-    <p>Um Maluco no Pedaço</p>
-    </div> 
-
-    <div class="capas">
-        <a asp-action="SerieVikings"><img src="~/capas/series/capa-vikings.jpg"></a>
-        <p>Vikings</p>
-        </div> 
+    <hr>
+    <main class="grid-collection">
 
         <div class="capas">
-            <a asp-action="SerieMandaloriano"><img src="~/capas/series/capa-the-mandalorian.jpg"></a>
+            <a href="#"><img src="~/capas/series/capa-todo-mundo-odeia-o-chris.jpg"></a>
+            <p>Todo Mundo Odeia o Chris</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-um-maluco-no-pedaco.jpg"></a>
+            <p>Um Maluco no Pedaço</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-vikings.jpg"></a>
+            <p>Vikings</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-the-mandalorian.jpg"></a>
             <p>O Mandaloriano</p>
-            </div> 
+        </div>
 
-            <div class="capas">
-               <a asp-action="SerieBrooklyn99"><img src="~/capas/series/capa-brooklyn-99.jpg"></a>
-                <p>Brooklyn 99</p>
-                </div> 
-
-                <div class="capas">
-                    <a asp-action="SerieLaCasaDePapel"><img src="~/capas/series/capa-la-casa-de-papel.jpg"></a>
-                    <p>La Casa de Papel</p>
-                    </div> 
-
-                    <div class="capas">
-                        <a asp-action="SerieFallingSkies"><img src="~/capas/series/capa-falling-skies.jpg"></a>
-                        <p>Falling Skies</p>
-                        </div> 
-
-                        <div class="capas">
-                            <a asp-action="SerieFriends"><img src="~/capas/series/capa-friends.jpg"></a>
-                            <p>Friends</p>
-                            </div> 
-
-                            <div class="capas">
-                                <a asp-action="SerieDemolidor"><img src="~/capas/series/capa-demolidor.jpg"></a>
-                                <p>Demolidor</p>
-                                </div> 
-
-                                <div class="capas">
-                                    <a asp-action="SerieFrontier"><img src="~/capas/series/capa-frontier.jpg"></a>
-                                    <p>Frontier</p>
-                                    </div> 
-
-                                    <div class="capas">
-                                        <a asp-action="SerieHowIMetYourMother"><img src="~/capas/series/capa-how-i-met-your-mother.jpg"></a>
-                                        <p>How I Met Your Mother</p>
-                                        </div> 
-
-                                        <div class="capas">
-                                            <a asp-action="SerieSobrenatural"><img src="~/capas/series/capa-sobrenatural.jpg"></a>
-                                            <p>Sobrenatural</p>
-                                            </div> 
-
-                                            <div class="capas">
-                                                <a asp-action="SeriePunhoDeFerro"><img src="~/capas/series/capa-punho-de-ferro.jpg"></a>
-                                                <p>Punho de Ferro</p>
-                                                </div> 
-
-                                                <div class="capas">
-                                                    <a asp-action="SerieLukeCage"><img src="~/capas/series/capa-luke-cage.jpg"></a>
-                                                    <p>Luke Cage</p>
-                                                    </div> 
-
-</main>
-
-<div class="pagination">
-    <a href="#">◄</a>
-    <a href="filmes.html" class="active">1</a>
-    <a href="#">2</a>
-    <a href="#">3</a>
-    <a href="#">►</a>   
-</div>
-
-<div class="title">
-    <h3>Últimas Séries</h3>
-   </div>
-<hr>
-<div class="grid-collection">
-    <div class="capas">
-        <a asp-action="SerieBoardwalkEmpire"><img src="~/capas/series/capa-boardwalk-empire.jpg"></a>
-        <p>Boardwalk Empire</p>
-        </div> 
-        
         <div class="capas">
-            <a asp-action="SerieBreakingBad"><img src="~/capas/series/capa-breaking-bad.jpg"></a>
+            <a href="#"><img src="~/capas/series/capa-brooklyn-99.jpg"></a>
+            <p>Brooklyn 99</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-la-casa-de-papel.jpg"></a>
+            <p>La Casa de Papel</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-falling-skies.jpg"></a>
+            <p>Falling Skies</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-friends.jpg"></a>
+            <p>Friends</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-demolidor.jpg"></a>
+            <p>Demolidor</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-frontier.jpg"></a>
+            <p>Frontier</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-how-i-met-your-mother.jpg"></a>
+            <p>How I Met Your Mother</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-sobrenatural.jpg"></a>
+            <p>Sobrenatural</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-punho-de-ferro.jpg"></a>
+            <p>Punho de Ferro</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-luke-cage.jpg"></a>
+            <p>Luke Cage</p>
+        </div>
+
+    </main>
+
+    <div class="pagination">
+        <a href="#">◄</a>
+        <a href="filmes.html" class="active">1</a>
+        <a href="#">2</a>
+        <a href="#">3</a>
+        <a href="#">►</a>
+    </div>
+
+    <div class="title">
+        <h3>Últimas Séries</h3>
+    </div>
+    <hr>
+    <div class="grid-collection">
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-boardwalk-empire.jpg"></a>
+            <p>Boardwalk Empire</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-breaking-bad.jpg"></a>
             <p>Breaking Bad</p>
-            </div> 
-        
-            <div class="capas">
-                <a asp-action="SerieEuaPatroaeasCriancas"><img src="~/capas/series/capa-eu-a-patroa-e-as-criancas.jpg"></a>
-                <p>Eu a Patroa e as Crianças</p>
-                </div> 
-        
-                <div class="capas">
-                    <a asp-action="SerieHellOnWheels"><img src="~/capas/series/capa-hell-on-wheels.jpg"></a>
-                    <p>Hell On Wheels</p>
-                    </div> 
-        
-                    <div class="capas">
-                        <a asp-action="SerieLost"><img src="~/capas/series/capa-lost.jpg"></a>
-                        <p>Lost</p>
-                        </div> 
-        
-                        <div class="capas">
-                            <a asp-action="SerieKenaneKel"><img src="~/capas/series/capa-kenan-e-kel.jpg"></a>
-                            <p>Kenan e Kel</p>
-                            </div> 
-        
-                            <div class="capas">
-                                <a asp-action="SerieNarcos"><img src="~/capas/series/capa-narcos.jpg"></a>
-                                <p>Narcos</p>
-                                </div> 
-        
-                                <div class="capas">
-                                    <a asp-action="SeriePrisonBreak"><img src="~/capas/series/capa-prison-break.jpg"></a>
-                                    <p>Prison Break</p>
-                                    </div> 
-        
-                                    <div class="capas">
-                                        <a asp-action="SerieSonsOfAnarchy"><img src="~/capas/series/capa-sons-of-anarchy.jpg"></a>
-                                        <p>Sons of Anarchy</p>
-                                        </div> 
-        
-                                        <div class="capas">
-                                            <a asp-action="SerieSpartacus"><img src="~/capas/series/capa-spartacus.jpg"></a>
-                                            <p>Spartacus</p>
-                                            </div> 
-        
-                                            <div class="capas">
-                                                <a asp-action="SerieStarTrek"><img src="~/capas/series/capa-star-trek.jpg"></a>
-                                                <p>Star Trek</p>
-                                                </div> 
-        
-                                                <div class="capas">
-                                                    <a asp-action="SerieStrangerThings"><img src="~/capas/series/capa-stranger-things.jpg"></a>
-                                                    <p>Stranger Things</p>
-                                                    </div> 
-        
-                                                    <div class="capas">
-                                                        <a asp-action="SerieTheBigBangTheory"><img src="~/capas/series/capa-the-big-bang-theory.jpg"></a>
-                                                        <p>The Big Bang Theory</p>
-                                                        </div> 
-        
-                                                        <div class="capas">
-                                                            <a asp-action="SerieTheWalkingDead"><img src="~/capas/series/capa-the-walking-dead.jpg"></a>
-                                                            <p>The Walking Dead</p>
-                                                            </div> 
-</div>
-<script>
-    ScrollReveal().reveal('.grid-collection');
-</script>
+        </div>
+
+        <div class="capas">
+            <a asp-action="SerieEuaPatroaeasCriancas"><img src="~/capas/series/capa-eu-a-patroa-e-as-criancas.jpg"></a>
+            <p>Eu a Patroa e as Crianças</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-hell-on-wheels.jpg"></a>
+            <p>Hell On Wheels</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-lost.jpg"></a>
+            <p>Lost</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-kenan-e-kel.jpg"></a>
+            <p>Kenan e Kel</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-narcos.jpg"></a>
+            <p>Narcos</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-prison-break.jpg"></a>
+            <p>Prison Break</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-sons-of-anarchy.jpg"></a>
+            <p>Sons of Anarchy</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-spartacus.jpg"></a>
+            <p>Spartacus</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-star-trek.jpg"></a>
+            <p>Star Trek</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-stranger-things.jpg"></a>
+            <p>Stranger Things</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-the-big-bang-theory.jpg"></a>
+            <p>The Big Bang Theory</p>
+        </div>
+
+        <div class="capas">
+            <a href="#"><img src="~/capas/series/capa-the-walking-dead.jpg"></a>
+            <p>The Walking Dead</p>
+        </div>
+    </div>
+    <script>
+        ScrollReveal().reveal('.grid-collection');
+    </script>
 
 
 </div>
